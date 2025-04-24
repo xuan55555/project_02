@@ -3,3 +3,6 @@ index.html
 
 #忽略test文件
 test/
+
+#不忽略test目录下的test.css文件
+test/test.css
